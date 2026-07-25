@@ -75,13 +75,12 @@ The dashboard enables stakeholders to monitor business performance, identify tre
 ![Pivot Table](Screenshots/pivot-table.png)
 
 **Riders(HR)**
-
-![1784989542158](image/README/1784989542158.png)
+![Riders(HR)](Screenshots/Riders(HR).png)
 
 
 **Loss Analysis**
 
-![1784989884713](image/README/1784989884713.png)
+![Loss Analysis](Screenshots/loss-analysis.png)
 
 ---
 
